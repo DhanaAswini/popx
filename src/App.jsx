@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import Welcome from "./components/Welcome";
 import Login from "./components/Login";
 import CreateAccount from "./components/CreateAccount";
-import AccountSettings from "./components/Accountsettings";
+import AccountSettings from "./components/AccountSettings";
 
 function App() {
   return (
